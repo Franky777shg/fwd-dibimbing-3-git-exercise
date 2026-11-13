@@ -1,3 +1,3 @@
 let angka1 = 2;
 
-console.log('dsajk')
+console.log(angka1 + 30)
