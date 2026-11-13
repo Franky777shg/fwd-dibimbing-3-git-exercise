@@ -1,3 +1,3 @@
 let angka1 = 2;
 
-console.log(angka1 + 30)
+console.log('1234567890')
